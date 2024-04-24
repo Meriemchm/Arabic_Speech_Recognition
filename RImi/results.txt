@@ -1,0 +1,5 @@
+Train_acc:1.0,test_accuracy :0.7307060755336617	f1:0.7307060755336617	batch_size:16	learningRate:0.001	dropoutRate:0.0	kernel_size:3
+Train_acc:0.9536945812807882,test_accuracy :0.6978653530377669	f1:0.6978653530377669	batch_size:16	learningRate:0.001	dropoutRate:0.5	kernel_size:3
+Train_acc:0.15566502463054188,test_accuracy :0.12151067323481117	f1:0.12151067323481117	batch_size:16	learningRate:0.1	dropoutRate:0.5	kernel_size:3
+Train_acc:0.9980295566502463,test_accuracy :0.7077175697865353	f1:0.7077175697865352	batch_size:8	learningRate:0.001	dropoutRate:0.5	kernel_size:3
+Train_acc:0.8236453201970443,test_accuracy :0.638752052545156	f1:0.638752052545156	batch_size:16	learningRate:0.001	2dropoutRate:0.6	kernel_size:3
